@@ -8,6 +8,7 @@ class CatServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		/** test */
 	}
 
 }
